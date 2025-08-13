@@ -20,7 +20,7 @@ Shipping Insights: Breakdown of orders by ship mode and state-wise performance
 Category/Product Performance: Top categories, sub-categories, and best-selling items visualized
 
 ## -Technologies
-Built using Power BI / Tableau / Excel dashboards (update tool as needed)
+Built using Power BI / Excel dashboards
 Interactive charts, maps, and filters for rapid data analysis
 
 Usage
